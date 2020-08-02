@@ -10,5 +10,5 @@
 -Telefono: + (58) 424 894 24 96
 -Remoto / Home Ofice: Disponible
 - 📫 Cómo llegar a mí: Contactame por mis redes sociales:
-     <h3><a href="https://www.linkedin.com/in/marcos-cardenas-385025137/">@JonathanDevs</a></h3><br>
-     <h3><a href="https://www.instagram.com/marcos_mech">@JonathanDevs</a></h3>
+     <h3><a href="https://www.linkedin.com/in/marcos-cardenas-385025137/">Perfil de Linkedin</a></h3><br>
+     <h3><a href="https://www.instagram.com/marcos_mech">@marcos_mech</a></h3>
